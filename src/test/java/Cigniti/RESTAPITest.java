@@ -18,6 +18,13 @@ public class RESTAPITest {
 	@Test
 	public void DeleteTweet() {
 		System.out.println("DeleteTweet");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		
 	}
 
 }

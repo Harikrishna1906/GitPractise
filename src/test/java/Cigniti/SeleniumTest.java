@@ -7,6 +7,14 @@ public class SeleniumTest {
 	@Test
 	public void BrowserTest() {
 		System.out.println("BrowserTest");
+		System.out.println("BrowserTest");
+
+		System.out.println("BrowserTest");
+
+		System.out.println("BrowserTest");
+
+		System.out.println("BrowserTest");
+
 	}
 	@Test
 	public void UITest() {
