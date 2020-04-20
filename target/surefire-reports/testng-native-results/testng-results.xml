@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="76" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="76" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+      <class name="Cigniti.SeleniumTest">
+        <test-method status="PASS" signature="BrowserTest()[pri:0, instance:Cigniti.SeleniumTest@6c3708b3]" name="BrowserTest" duration-ms="1" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method status="PASS" signature="UITest()[pri:0, instance:Cigniti.SeleniumTest@6c3708b3]" name="UITest" duration-ms="0" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UITest -->
+      </class> <!-- Cigniti.SeleniumTest -->
+      <class name="Cigniti.RESTAPITest">
+        <test-method status="PASS" signature="DefectPostInJira()[pri:0, instance:Cigniti.RESTAPITest@3e9b1010]" name="DefectPostInJira" duration-ms="1" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DefectPostInJira -->
+        <test-method status="PASS" signature="DeleteTweet()[pri:0, instance:Cigniti.RESTAPITest@3e9b1010]" name="DeleteTweet" duration-ms="0" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTweet -->
+      </class> <!-- Cigniti.RESTAPITest -->
+      <class name="Cigniti.AppiumTest">
+        <test-method status="PASS" signature="HybridAppsIOS()[pri:0, instance:Cigniti.AppiumTest@18eed359]" name="HybridAppsIOS" duration-ms="6" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HybridAppsIOS -->
+        <test-method status="PASS" signature="nativeAppsAndroid()[pri:0, instance:Cigniti.AppiumTest@18eed359]" name="nativeAppsAndroid" duration-ms="1" started-at="2020-02-09T22:48:11 IST" finished-at="2020-02-09T22:48:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppsAndroid -->
+      </class> <!-- Cigniti.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
