@@ -38,5 +38,18 @@ public class SeleniumTest {
 	public void UITest1() {
 		System.out.println("UITest");
 	}
+	
+
+	@Test
+	public void UITest2() {
+		System.out.println("UITest");
+	}
+	
+	
+
+	@Test
+	public void UITest3() {
+		System.out.println("UITest");
+	}
 
 }
