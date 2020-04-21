@@ -16,6 +16,16 @@ public class RESTAPITest {
 	
 	
 	@Test
+	public void DefectPostInJira1() {
+		System.out.println("DefectPostInJira");
+		System.out.println("DefectPostInJira1");
+		System.out.println("DefectPostInJira2");
+		System.out.println("DefectPostInJira3");
+		
+	}
+	
+	
+	@Test
 	public void DeleteTweet() {
 		System.out.println("DeleteTweet");
 		System.out.println("DefectPostInJira3");
@@ -27,4 +37,16 @@ public class RESTAPITest {
 		
 	}
 
+	
+	@Test
+	public void DeleteTweet1() {
+		System.out.println("DeleteTweet");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		System.out.println("DefectPostInJira3");
+		
+	}
 }
